@@ -8,10 +8,9 @@ function App() {
   return (
     <div className="flex min-h-screen bg-gray-200">
 
-      {/* Sidebar */}
       <Sidebar />
 
-      {/* Right Content */}
+
       <div className="flex flex-col flex-1">
 
         <Header />
