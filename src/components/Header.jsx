@@ -8,7 +8,6 @@ export default function Header() {
     <div className="w-full h-16 flex items-center justify-between px-6 
     bg-white border-b shadow-xl  border-gray-300">
 
-      {/* Search */}
       <div className="relative w-80">
         <span className="material-symbols-outlined absolute left-3 top-2.5 text-gray-500">
           search
